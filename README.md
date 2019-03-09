@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/jarmandocardenaslara/ContosoAir/_apis/build/status/ArmandoCardenas.ContosoAir?branchName=master)](https://dev.azure.com/jarmandocardenaslara/ContosoAir/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
